@@ -1,0 +1,6 @@
+pandas>=2.2
+numpy>=1.26
+streamlit>=1.38
+anthropic>=0.40
+pytest>=8
+# apache-airflow>=2.9  (only needed to run dags/retail_etl_dag.py)
